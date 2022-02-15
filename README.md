@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="" rel="noopener">
+  <a href="#" rel="noopener">
  <img src="images/taxi-order-vector-illustration3.jpeg" alt="Project logo"></a>
 </p>
 <h1 align="center">Taxi Availability Singapore</h1>
